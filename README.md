@@ -1,1 +1,1 @@
-# Bittex-Bank
+# Bittex-Group
